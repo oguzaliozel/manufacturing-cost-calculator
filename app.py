@@ -41,7 +41,7 @@ class ImalatUygulamasi(ctk.CTk):
     def __init__(self):
         super().__init__()
 
-        self.title("Özel Makine CNC - Akıllı Teklif ve Maliyet Motoru")
+        self.title("Akıllı Teklif ve Maliyet Motoru")
         self.geometry("1100x750")
         
         # Grid Yapısı (Sol menü ve sağ içerik)
